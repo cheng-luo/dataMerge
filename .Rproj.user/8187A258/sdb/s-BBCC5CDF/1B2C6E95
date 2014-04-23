@@ -1,0 +1,15 @@
+{
+    "contents" : "Data Project\n=========\n\n# Usage\n* just execute the R script \"run_analysis.R\" to create the two datasets\n* make sure the unzipped dataset folder called \"UCI HAR Dataset\" is stored in the same folder as \"run_analysis.R\"\n\n# Generated data files\n* the script will create two subfolders called dataset1 and dataset2 under \"UCI HAR Dataset/merge\"\n* All together, there will be six generated data files\n  1. merge/dataset1/X.txt\n  2. merge/dataset1/y.txt\n  3. merge/dataset1/subject.txt\n  4. merge/dataset2/X.txt\n  5. merge/dataset2/y.txt\n  6. merge/dataset2/subject.txt\n",
+    "created" : 1398176664745.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1014648851",
+    "id" : "1B2C6E95",
+    "lastKnownWriteTime" : 1398177110,
+    "path" : "C:/Mis/Misc/Learning/assignments/Getting and Cleaning Data/project/project/README.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
